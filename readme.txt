@@ -19,3 +19,21 @@ I learned, how to bsod, so in next malware, I add this:
 #pragma <"ntdll.lib">
 ----------------------------------------------------------------------------------------------------------------
 That's all :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, pankoza said, it's a SKIDDED RIPOFF, so try Hwyr2.0, because Hwyr2.0 is noskid, Almium is SKIDDO malware
