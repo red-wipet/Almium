@@ -19,3 +19,22 @@ I learned, how to bsod, so in next malware, I add this:
 #pragma <"ntdll.lib">
 ----------------------------------------------------------------------------------------------------------------
 That's all :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RIPOFF OF HOLMIUM.EXE
